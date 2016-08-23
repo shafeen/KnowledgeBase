@@ -15,7 +15,7 @@
 
 #### Lambdas
 - format
-- common use cases (Collections 
+- common use cases (Collections)  
 *coming soon*
 
 
@@ -23,32 +23,32 @@
 - getting streams from collections and streams
 *coming soon*
  
-#### When to *unbox* streaming values 
+#### When should we *unbox* streaming values? 
 
 **Example:**  
 Compare the runtimes of these 2 similar snippets of code below
 ```Java
-    List<Integer> list = new LinkedList<>();
-    while (list.size() < 1000000) {
-        list.add(list.size() + 1);
-    }
-    
-    long start = System.currentTimeMillis();
-    System.out.println(list.stream().mapToInt(e -> e).map(v -> v-100).reduce(0, (p, v) -> p + v));
-    System.out.println(System.currentTimeMillis() - start);
+List<Integer> list = new LinkedList<>();
+while (list.size() < 1000000) {
+    list.add(list.size() + 1);
+}
+
+long start = System.currentTimeMillis();
+System.out.println(list.stream().mapToInt(e -> e).map(v -> v-100).reduce(0, (p, v) -> p + v));
+System.out.println(System.currentTimeMillis() - start);
 ```
 ```Java
-    List<Integer> list = new LinkedList<>();
-    while (list.size() < 1000000) {
-        list.add(list.size() + 1);
-    }
-    
-    long start = System.currentTimeMillis();
-    System.out.println(list.stream().map(v -> v-100).reduce(0, (p, v) -> p + v));
-    System.out.println(System.currentTimeMillis() - start);
+List<Integer> list = new LinkedList<>();
+while (list.size() < 1000000) {
+    list.add(list.size() + 1);
+}
+
+long start = System.currentTimeMillis();
+System.out.println(list.stream().map(v -> v-100).reduce(0, (p, v) -> p + v));
+System.out.println(System.currentTimeMillis() - start);
 ```
 
-The 2nd code snippet with the unboxed values should have a noticably faster runtime.
+The 1st code snippet with the unboxed values should have a noticably faster runtime.
 
 *more coming soon*
 
