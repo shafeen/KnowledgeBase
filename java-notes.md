@@ -1,29 +1,29 @@
 ## My miscellaneous Java notes
  
  
-### I/O
+## I/O
  
-#### `Scanner` vs `BufferedReader`
+### `Scanner` vs `BufferedReader`
 *coming soon*
 
-#### Manually setting I/O streams when testing (JUnit)
+### Manually setting I/O streams when testing (JUnit)
 *coming soon*
 
 ---
 
-### Using Java 8 Lambdas & Streams
+## Using Java 8 Lambdas & Streams
 
-#### Lambdas
+### Lambdas
 - format
 - common use cases (Collections)  
 *coming soon*
 
 
-#### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
+### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
 - getting streams from collections and streams
 *coming soon*
  
-#### When should we *unbox* streaming values? 
+### When should we *unbox* streaming values? 
 
 **Example:**  
 Compare the runtimes of these 2 similar snippets of code below
@@ -54,9 +54,9 @@ The 1st code snippet with the unboxed values should have a noticably faster runt
 
 --- 
 
-### Exceptions
+## Exceptions
 
-#### Checked vs Unchecked
+### Checked vs Unchecked
 *coming soon*
 
  
