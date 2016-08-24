@@ -49,7 +49,18 @@ System.out.println(in.nextInt());
 - [Lambda Expressions in Java 8] (http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764)
 
 ### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
-- getting streams from collections and streams  
+
+**Getting a stream from a Collection such as `ArrayList` or `LinkedList`:**
+```Java
+List<Integer> list = Arrays.asList(1,2,3,4,5);
+Stream<Integer> numberListStream = list.stream(); 
+```  
+
+**Getting a stream from a basic array:**
+```Java
+int[] numbers = new int[]{1, 2, 3, 4, 5}
+Stream<Integer> numberListStream = Arrays.stream(numbers); 
+```
 
 **Sample `map`/`reduce`/`filter` usage using basic Java arrays:**
 ```Java
@@ -67,8 +78,6 @@ numbers = Arrays.stream(numbers).map(n -> n*n ).toArray();
 System.out.printf("Squaring all the odd numbers: %s\n", Arrays.toString(numbers));
 ```
 
-*more coming soon...*
- 
 ### When should we *unbox* streaming values? 
 
 **Example:**  
