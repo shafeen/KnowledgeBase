@@ -10,7 +10,7 @@ a major difference between the two is that `Scanner` has a smaller default
 buffer size (1024) which also not growable as opposed to `BufferedReader` which
 has a larger buffer size (8192) **and** is growable as needed.  
 
-**Sample usages demo-ing getting input from STDIN**
+**Sample usages demo-ing getting input from STDIN:**
 ```Java
 // Scanner class
 Scanner in = new Scanner(System.in);
@@ -20,6 +20,11 @@ System.out.println(in.nextLine());
 // BufferedReader class
 BufferedReader inputReader = new BufferedReader(new InputStreamReader(System.in));
 System.out.println(inputReader.nextLine());
+
+// If you really want the functionality that the Scanner offers,
+// you can always create a Scanner object with the contents of the line
+Scanner in = new Scanner(inputReader.nextLine);
+System.out.println(in.nextInt());
 ```
 
 ### Manually setting I/O streams when testing (JUnit)
