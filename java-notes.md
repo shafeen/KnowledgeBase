@@ -28,7 +28,12 @@ System.out.println(in.nextInt());
 ```
 
 ### Manually setting I/O streams when testing (JUnit)
-*coming soon*
+- Use of `System.setIn`/
+- Use of `ByteArrayOutputStream` in conjunction with `System.setOut`/`setErr`  
+*coming soon...*  
+
+**Links:**
+- [JUnit test for System.out.println()] (http://stackoverflow.com/questions/1119385/junit-test-for-system-out-println)
 
 ---
 
@@ -36,13 +41,16 @@ System.out.println(in.nextInt());
 
 ### Lambdas
 - format
-- common use cases (Collections)  
-*coming soon*
+- common use cases (Collections)    
+*coming soon...*
 
+**Links:**
+- [Java docs: Lambda Expressions] (https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+- [Lambda Expressions in Java 8] (http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764)
 
 ### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
 - getting streams from collections and streams
-*coming soon*
+*coming soon...*
  
 ### When should we *unbox* streaming values? 
 
@@ -71,13 +79,13 @@ System.out.println(System.currentTimeMillis() - start);
 
 The 1st code snippet with the unboxed values should have a noticably faster runtime.
 
-*more coming soon*
+*more coming soon...*
 
 --- 
 
 ## Exceptions
 
 ### Checked vs Unchecked
-*coming soon*
+*coming soon...*
 
  
