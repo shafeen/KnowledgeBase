@@ -49,8 +49,25 @@ System.out.println(in.nextInt());
 - [Lambda Expressions in Java 8] (http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764)
 
 ### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
-- getting streams from collections and streams
-*coming soon...*
+- getting streams from collections and streams  
+
+**Sample `map`/`reduce`/`filter` usage using basic Java arrays:**
+```Java
+int[] numbers = new int[]{1, 2, 3, 4, 5};
+// Reduce
+int sum = Arrays.stream(numbers).reduce(0, (p, c) -> {return p+c;});
+System.out.printf("Sum of all numbers in %s = %s\n", Arrays.toString(numbers), sum);
+
+// Filter
+numbers = Arrays.stream(numbers).filter(n -> n%2 == 1).toArray();
+System.out.printf("After filtering out even numbers: %s\n", Arrays.toString(numbers));
+
+// Map
+numbers = Arrays.stream(numbers).map(n -> n*n ).toArray();
+System.out.printf("Squaring all the odd numbers: %s\n", Arrays.toString(numbers));
+```
+
+*more coming soon...*
  
 ### When should we *unbox* streaming values? 
 
