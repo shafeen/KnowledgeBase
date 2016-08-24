@@ -10,7 +10,7 @@ a major difference between the two is that `Scanner` has a smaller default
 buffer size (1024) which also not growable as opposed to `BufferedReader` which
 has a larger buffer size (8192) **and** is growable as needed.  
 
-**Sample usages demo-ing getting input from STDIN:**
+#### Sample usages demo-ing getting input from STDIN:
 ```Java
 // Scanner class
 Scanner in = new Scanner(System.in);
@@ -32,7 +32,7 @@ System.out.println(in.nextInt());
 - Use of `ByteArrayOutputStream` in conjunction with `System.setOut`/`setErr`  
 *coming soon...*  
 
-**Links:**
+####Links:
 - [JUnit test for System.out.println()] (http://stackoverflow.com/questions/1119385/junit-test-for-system-out-println)
 
 ---
@@ -44,25 +44,25 @@ System.out.println(in.nextInt());
 - common use cases (Collections)    
 *coming soon...*
 
-**Links:**
+####Links:
 - [Java docs: Lambda Expressions] (https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 - [Lambda Expressions in Java 8] (http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764)
 
 ### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
 
-**Getting a stream from a Collection such as `ArrayList` or `LinkedList`:**
+####Getting a stream from a Collection such as `ArrayList` or `LinkedList`:
 ```Java
 List<Integer> list = Arrays.asList(1,2,3,4,5);
 Stream<Integer> numberListStream = list.stream(); 
 ```  
 
-**Getting a stream from a basic array:**
+####Getting a stream from a basic array:
 ```Java
 int[] numbers = new int[]{1, 2, 3, 4, 5}
 Stream<Integer> numberListStream = Arrays.stream(numbers); 
 ```
 
-**Sample `map`/`reduce`/`filter` usage using basic Java arrays:**
+####Sample `map`/`reduce`/`filter` usage using basic Java arrays:
 ```Java
 int[] numbers = new int[]{1, 2, 3, 4, 5};
 // Reduce
@@ -80,7 +80,7 @@ System.out.printf("Squaring all the odd numbers: %s\n", Arrays.toString(numbers)
 
 ### When should we *unbox* streaming values? 
 
-**Example:**  
+####Example:  
 Compare the runtimes of these 2 similar snippets of code below
 ```Java
 List<Integer> list = new LinkedList<>();
