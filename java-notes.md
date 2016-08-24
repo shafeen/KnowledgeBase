@@ -1,10 +1,26 @@
 ## My miscellaneous Java notes
  
  
-## I/O
+## Java I/O
  
 ### `Scanner` vs `BufferedReader`
-*coming soon*
+
+Besides the obvious pattern matching and tokenizing functionality in `Scanner`, 
+a major difference between the two is that `Scanner` has a smaller default 
+buffer size (1024) which also not growable as opposed to `BufferedReader` which
+has a larger buffer size (8192) **and** is growable as needed.  
+
+**Sample usages demo-ing getting input from STDIN**
+```Java
+// Scanner class
+Scanner in = new Scanner(System.in);
+System.out.println(in.nextLine());
+```
+```Java
+// BufferedReader class
+BufferedReader inputReader = new BufferedReader(new InputStreamReader(System.in));
+System.out.println(inputReader.nextLine());
+```
 
 ### Manually setting I/O streams when testing (JUnit)
 *coming soon*
