@@ -117,7 +117,7 @@ The 1st code snippet with the unboxed values should have a noticably faster runt
 ### Checked vs Unchecked
 
 #### Links:
-- [http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java] (http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)
+- [Checked vs Unchecked Exceptions in Java] (http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)  
 *coming soon...*
 
  
