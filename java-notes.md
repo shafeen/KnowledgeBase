@@ -105,6 +105,9 @@ System.out.println(System.currentTimeMillis() - start);
 
 The 1st code snippet with the unboxed values should have a noticably faster runtime.
 
+#### Links:
+- [How does Java 8 mapToInt improve performance?] (http://stackoverflow.com/questions/25269346/how-does-java-8-maptoint-maptointe-e-improves-performance-exactly)
+
 *more coming soon...*
 
 --- 
@@ -112,6 +115,9 @@ The 1st code snippet with the unboxed values should have a noticably faster runt
 ## Exceptions
 
 ### Checked vs Unchecked
+
+#### Links:
+- [http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java] (http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)
 *coming soon...*
 
  
