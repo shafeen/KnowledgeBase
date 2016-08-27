@@ -117,7 +117,8 @@ The 1st code snippet with the unboxed values should have a noticably faster runt
 ### Checked vs Unchecked
 
 #### Links:
-- [Checked vs Unchecked Exceptions in Java] (http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)  
+- [Checked vs Unchecked Exceptions in Java] (http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)
+- [Unchecked Exceptions — The Controversy] (https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)  
 *coming soon...*
 
  
