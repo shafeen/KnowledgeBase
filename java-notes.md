@@ -1,6 +1,11 @@
 ## My miscellaneous Java notes
  
- 
+## Java strings, libraries and testing
+- `String` concatenation vs `StringBuffer` and `StringBuilder`usage
+- Sorting and Hashing using Java's collections
+- Overriding  appropriate methods when necessary (`hashcode`, `equals`, `compareTo`, `toString`)  
+*extended notes coming soon...*
+
 ## Java I/O
  
 ### `Scanner` vs `BufferedReader`
