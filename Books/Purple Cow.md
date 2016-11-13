@@ -9,7 +9,7 @@ only change you have is to sell to those who like change, who like new stuff,
 who are actively looking for what it is you sell.
   
 You must design a product remarkable enough to attract the early adopters--but
-flexible enough and attractive enought that those adopters will have an easy time
+flexible enough and attractive enough that those adopters will have an easy time
 spreading the idea to the rest of the curve.
 
 #### Ideas That Spread, Win
