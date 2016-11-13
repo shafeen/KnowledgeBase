@@ -35,7 +35,7 @@ If a user is inactive (has performed no action) for a certain predetermined peri
 
 
 
-#####How can we implement sliding sessions using jwts?
+####How can we implement sliding sessions using jwts?
 You should be able to implement "sliding session" functionality using a JWT access-token/refresh-token scheme.  
 *coming soon...*
 
