@@ -20,3 +20,10 @@ an ideavirus so focused that it overwhelms that small slice of the market that
 really and truly will respond to what you sell.
 
 
+#### The Big Misunderstanding
+Marketing in a post-TV world is no longer about making a product better _after_
+it's designed and built--it's about designing the thing to be virus-worthy in
+the first place. Products engineered to cross the chasm--with built-in protection
+for wary consumers--are way more likely to succeed than products not engineered
+that way.
+
