@@ -27,3 +27,16 @@ the first place. Products engineered to cross the chasm--with built-in protectio
 for wary consumers--are way more likely to succeed than products not engineered
 that way.
 
+#### Who's Listening?
+IT IS USELESS TO ADVERTISE TO ANYONE (EXCEPT INTERESTED SNEEZERS WITH INFLUENCE).
+
+#### Not All Customers Are the Same
+Differentiate your customers. Find the group that's most profitable. Find the 
+group that's most likely to sneeze. Figure out how to develop/advertise/reward
+either group. Ignore the rest. Your ads shouldn't cater to the masses. Your ads
+(and products) shoudn't cater to the masses, they should cater to the customers
+you'd choose if you could choose your customers.
+
+#### The Problem with the Cow
+In a crowded marketplace, fitting in is failing. In a busy marketplace, not
+standing out is the same as being invisible.
