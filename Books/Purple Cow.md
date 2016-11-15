@@ -40,3 +40,49 @@ you'd choose if you could choose your customers.
 #### The Problem with the Cow
 In a crowded marketplace, fitting in is failing. In a busy marketplace, not
 standing out is the same as being invisible.
+
+Here is the catch-22 of the Purple Cow. If times are tough, your peers and your
+boss may very well say that you can't afford to be remarkable. After all, we have
+to conserve, to play it safe; we don't have the money to make a mistake. In good
+time, however, *those same people* will tell you to relax, take it easy; we can
+afford to be conservative, to play it safe.
+
+The good news is that the prevailing wisdom makes your job even easier. Since 
+just about everyone is petrified of the Cow, you can be remarkable with even less
+effort. If successful new products are the ones that stand out, and most people 
+desire not to stand out, you're set!
+
+Boring is always the most risky strategy.
+
+#### Projections, Profits, and the Purple Cow
+
+Mas marketing demands mass products. And mass products beg for mass marketing.
+This equation leads to dangerous catch-22, one with two parts.
+
+**Part One: Boring Products.** Companies built around mass marketing develop their
+products accordingly. These companies round the edges, smooth out the differentiating
+features, and try to make products that are bland enough to work for the masses.
+The way a product or idea reaches the bulk of the market is to move from the left 
+to the right. You can no longer reach everyone at once. And if you don't grab the
+attention of and enthusiasm of the sneezers, your product withers.
+
+**Part Two: Scary Budgets.** In order to launch a product for the masses, you need
+to spend big. The problem with a scary budget is that you HAVE to make the ads
+work, and quickly. This front-loading of the budget does two things to your product
+ * It means you get very few chances to launch new products because each one is
+   so expensive.
+ * It doesn't give you a chance to ride through the idea diffusion curve. It takes
+   a while to reach the sneezers, who take a while to reach the rest of the population.
+   But your front-loaded budget means that by the time the majority have heard 
+   of you, you're already burned out or bankrupt.
+   
+#### Mass Marketers Hate to Measure
+Direct marketers realize that measurement is the key to success. Figure out what
+works, and do more of it!
+
+What could you measure? What would that cost? How fast can you get the results?
+If you can afford it, try it. "If you measure it, it will improve."
+
+
+   
+ 
