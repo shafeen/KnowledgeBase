@@ -83,6 +83,17 @@ works, and do more of it!
 What could you measure? What would that cost? How fast can you get the results?
 If you can afford it, try it. "If you measure it, it will improve."
 
+#### The Benefits of Being the Cow
+
+...
+
+
+#### In Search of Otaku
+
+Go to a science fiction convention. These are pretty odd folks. Do you appeal to
+an audience as wacky and wonderful as this one? How could you create one?
+Products differ, but sneezers and early adopters stay the same.
+
 
    
  
