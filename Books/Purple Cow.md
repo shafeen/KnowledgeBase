@@ -87,12 +87,29 @@ If you can afford it, try it. "If you measure it, it will improve."
 
 ...
 
+#### 72 Pearl Jam Albums
+Do you have the email addresses of the 20% of your customer base that loves what 
+you do? If not, start getting them. If you do, what could you make for these customers
+that would be super-special?
 
 #### In Search of Otaku
-
 Go to a science fiction convention. These are pretty odd folks. Do you appeal to
 an audience as wacky and wonderful as this one? How could you create one?
 Products differ, but sneezers and early adopters stay the same.
+
+#### Case Study - Krispy Kreme
+Find the market niche first, and **then** make the remarkable product, not the 
+other way around.
+
+#### The Power of a Slogan
+A slogan that accurately conveys the essence of your Purple cow is a script. A
+script for the sneezer to use when she talks with her friends. The slogan reminds
+the user, "Here's why it's worth recommending us; here's why your friends and 
+colleagues will be glad you told them about us."
+
+Do you have a slogan or positioning statement or remarkable board that's actually
+true? Is it consistent? Is it worth passing on?
+
 
 
    
