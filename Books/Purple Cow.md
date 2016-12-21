@@ -110,6 +110,12 @@ colleagues will be glad you told them about us."
 Do you have a slogan or positioning statement or remarkable board that's actually
 true? Is it consistent? Is it worth passing on?
 
+#### The Problem with Compromise
+If someone in your organization is charged with creating a new Purple Cow, *leave
+them alone*! Don't use internal reviews and usability testing to figure out if the 
+new product is as good as what you've got now. Instead, pick the right maverick 
+and get out of the way.
+
 
 
    
