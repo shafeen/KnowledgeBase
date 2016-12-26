@@ -56,7 +56,7 @@ Boring is always the most risky strategy.
 
 #### Projections, Profits, and the Purple Cow
 
-Mas marketing demands mass products. And mass products beg for mass marketing.
+Mass marketing demands mass products. And mass products beg for mass marketing.
 This equation leads to dangerous catch-22, one with two parts.
 
 **Part One: Boring Products.** Companies built around mass marketing develop their
