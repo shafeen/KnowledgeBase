@@ -133,9 +133,52 @@ involved. They're trying to figure out what car nuts think is remarkable. I'm
 not pitching focus groups here (they're a waste). I'm talking about very public 
 releases of cheap prototypes.
 
+#### Do you have to be Outrageous to be Remarkable?
+You're probably guilty of being too shy, not too outrageous. Try being outrageous,
+just for the sake of being annoying. It's good practice. Don't do it too much 
+because it doesn't usually work. But it's a good way to learn what it feels like
+be at the edge.
 
+#### The Problem with Cheap
+Cheap is a lazy way out of the battle for the Purple Cow. Cheap is the last refuge
+of a product developer or marketer who is out of great ideas.
+If you could build a competitor that had costs that were 30% lower than yours, 
+could you do it? If you could, why don't you?
 
+#### When the Cow Looks for a job
+References available upon request? Non-sense. Your references are your resume.
+A standard resume is nothing but an opportunity for a prospective employer to turn
+you down. A sheaf of over-top-references and **demonstrable projects**, on the
+other hand, begs for a meeting.
 
+Visit www.monster.com. Millions of resumes, all in a pile, all waiting for someone
+to find them. If you're in that pile, it's not a good place to be. Before you start
+looking for a job, consider what you could do today so you never have to worry 
+that.
 
+#### Is it About Passion?
+Remember, it's not about being weird. It's about being irresistable to a tiny group
+of easily reached sneezers with *otaku*. Irresistible isn't the same as ridiculous.
+Irresistible (for the right niche) is just remarkable.
+
+#### True Facts
+The big question is this: Do you want to grow? If you do, you need to embrace the
+Cow. You can maintain your brand the old way, but the only route to healthy growth
+is a remarkable product.
+ 
+#### Brainstorms
+You have to go where the competition is not. The further the better.
+
+#### 8 Ways to bring the Cow to Work
+* Build and use a permission asset. Once you have the ability to talk directly to 
+your most loyal customers, it gets much easier to develop and sell amazing things.
+Without the filters of advertising, wholesalers, and retailers, you can create
+products that are far more remarkable.
+* Copy. Not from your industry, but from any other industry. Find an industry more 
+dull than yours, discover who's remarkable (it won't take long), and do what they
+did.
+* Go one more. Or two more. Identify a competitor who's generally regarded as at
+the edges, and outdo them. Whatever they're known for, do that thing even more.
+Even better, and even safer, do the opposite of what they're doing.
    
  
