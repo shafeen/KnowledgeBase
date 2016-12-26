@@ -116,6 +116,25 @@ them alone*! Don't use internal reviews and usability testing to figure out if t
 new product is as good as what you've got now. Instead, pick the right maverick 
 and get out of the way.
 
+#### What does Howard know?
+The number-one question about the Purple Cow is, "How do I know it's remarkable?" 
+This question almost always comes from the people who don't have the *otaku*.
+The CEO of Starbucks has a coffee *otaku*, everyone who works at Patagonia is an
+outdoor nut, etc, etc.
+
+Is there someone (a person, an agency?) in your industry who has a track record of 
+successfully launching remarkable products? Can you hire them right away, or at
+least learn from their behavior? Immerse yourself in fan magazines, trade shows,
+design reviews--whatever it takes to feel what your fans feel.
+
+Can you create a culture of aggressively prototyping new products and policies?
+When GM shows a concept car at the New York Auto Show, there's more than ego 
+involved. They're trying to figure out what car nuts think is remarkable. I'm
+not pitching focus groups here (they're a waste). I'm talking about very public 
+releases of cheap prototypes.
+
+
+
 
 
    
