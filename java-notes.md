@@ -38,7 +38,7 @@ System.out.println(in.nextInt());
 *coming soon...*  
 
 #### Links:
-- [JUnit test for System.out.println()] (http://stackoverflow.com/questions/1119385/junit-test-for-system-out-println)
+- [JUnit test for System.out.println()](http://stackoverflow.com/questions/1119385/junit-test-for-system-out-println)
 
 ---
 
@@ -50,7 +50,7 @@ System.out.println(in.nextInt());
 *coming soon...*
 
 #### Links:
-- [Java docs: Lambda Expressions] (https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+- [Java docs: Lambda Expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 - [Lambda Expressions in Java 8] (http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764)
 
 ### Using Java 8 Streams and common `map`/`reduce`/`filter` operations
@@ -111,7 +111,7 @@ System.out.println(System.currentTimeMillis() - start);
 The 1st code snippet with the unboxed values should have a noticably faster runtime.
 
 #### Links:
-- [How does Java 8 mapToInt improve performance?] (http://stackoverflow.com/questions/25269346/how-does-java-8-maptoint-maptointe-e-improves-performance-exactly)
+- [How does Java 8 mapToInt improve performance?](http://stackoverflow.com/questions/25269346/how-does-java-8-maptoint-maptointe-e-improves-performance-exactly)
 
 *more coming soon...*
 
@@ -122,8 +122,8 @@ The 1st code snippet with the unboxed values should have a noticably faster runt
 ### Checked vs Unchecked
 
 #### Links:
-- [Checked vs Unchecked Exceptions in Java] (http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)
-- [Unchecked Exceptions — The Controversy] (https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)  
+- [Checked vs Unchecked Exceptions in Java](http://stackoverflow.com/questions/14011749/checked-vs-unchecked-exceptions-in-java)
+- [Unchecked Exceptions — The Controversy](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)  
 *coming soon...*
 
  
