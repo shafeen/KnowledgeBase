@@ -1,4 +1,4 @@
-The art of documentation and README.md [katacoda.com] (katacoda.com)
+The art of documentation and README.md [katacoda.com](http://katacoda.com)
 -----------------------------------------------------
 Slides will available via his blog (ben hall).
 
